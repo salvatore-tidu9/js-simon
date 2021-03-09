@@ -60,7 +60,7 @@ $(document).ready(function () {
 
         console.log(playerNumbersList);
 
-    }, 5000);
+    }, 30000);
 
 });
 
